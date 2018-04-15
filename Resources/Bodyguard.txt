@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Characters\\Bodyguard.png
+.\\Resources\\Textures\\Sprites\\Characters\\Bodyguard_Outline.png
+150
+300
+I'm sorry sir, you are not allowed in.
+Come back in something a little more... formal
+ShirtAndTie
+Nothing
+400
+200

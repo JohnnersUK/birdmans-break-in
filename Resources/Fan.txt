@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Characters\\Fan.png
+.\\Resources\\Textures\\Sprites\\Characters\\Fan_Outline.png
+150
+300
+Birdman! could you sign this for me?
+Do you have a pen? check that bin!
+Pen
+Nothing
+900
+200

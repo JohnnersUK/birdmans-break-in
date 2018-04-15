@@ -1,0 +1,5 @@
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\Token.png
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\Token.png
+Token
+Nothing
+Nothing

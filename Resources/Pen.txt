@@ -1,0 +1,5 @@
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\Pen.png
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\Pen.png
+Pen
+Nothing
+Nothing

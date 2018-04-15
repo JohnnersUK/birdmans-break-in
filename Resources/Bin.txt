@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Bin.png
+.\\Resources\\Textures\\Sprites\\Objects\\Bin_Outline.png
+350
+230
+I wonder whats inside?
+There definitely something in there!
+Nothing
+Pen
+800
+270

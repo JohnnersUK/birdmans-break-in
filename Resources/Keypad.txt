@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Key_Pad.png
+.\\Resources\\Textures\\Sprites\\Objects\\Key_Pad_Outline.png
+40
+40
+Damn, I don't have the code.
+If only I had the code.
+Trump2020
+Trump2020
+510
+250

@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Street_Booth.png
+.\\Resources\\Textures\\Sprites\\Objects\\Street_Booth_Outline.png
+580
+360
+I should trade for something.
+Shame I don't have any money.
+Token
+ToothBrush
+500
+140

@@ -1,0 +1,5 @@
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\ToothBrush.png
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\ToothBrush.png
+ToothBrush
+Nothing
+Nothing

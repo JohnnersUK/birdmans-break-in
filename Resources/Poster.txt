@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Poster.png
+.\\Resources\\Textures\\Sprites\\Objects\\Poster_Outline.png
+200
+200
+Yep, thats a poster of me.
+Yep, thats a poster of me.
+Trump2020
+Trump2020
+70
+140

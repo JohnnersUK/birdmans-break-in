@@ -1,0 +1,5 @@
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\ShirtAndTie.png
+.\\Resources\\Textures\\Sprites\\Inventory Objects\\ShirtAndTie.png
+ShirtAndTie
+Nothing
+Nothing

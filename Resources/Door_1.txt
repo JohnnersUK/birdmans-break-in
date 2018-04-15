@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Door_1.png
+.\\Resources\\Textures\\Sprites\\Objects\\Door_1_Outline.png
+390
+360
+Damn it, it's locked.
+Damn it, it's locked.
+Trump2020
+Trump2020
+100
+140

@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Characters\\Homeless_Guy.png
+.\\Resources\\Textures\\Sprites\\Characters\\Homeless_Guy_Outline.png
+150
+300
+Excuse me, do you have a toothbrush I could borrow.
+I would buy one but all I have left is this jacket.
+ToothBrush
+ShirtAndTie
+500
+200

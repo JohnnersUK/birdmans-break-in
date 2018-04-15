@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Door_2_Multi.png
+.\\Resources\\Textures\\Sprites\\Objects\\Door_2_Multi_Outline.png
+900
+360
+So close.
+So close.
+Trump2020
+Trump2020
+300
+140

@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Bin.png
+.\\Resources\\Textures\\Sprites\\Objects\\Bin_Outline.png
+350
+230
+There is nothing in here.
+There is nothing in here.
+Trump2020
+Trump2020
+100
+270

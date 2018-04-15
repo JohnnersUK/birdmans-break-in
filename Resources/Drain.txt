@@ -1,0 +1,10 @@
+.\\Resources\\Textures\\Sprites\\Objects\\Storm_Drain.png
+.\\Resources\\Textures\\Sprites\\Objects\\Storm_Drain_Outline.png
+350
+230
+I wonder if anything is down here.
+There is something down here.
+Nothing
+Token
+200
+520

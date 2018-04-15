@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\Alleyway.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Alleyway2.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\AnimSprite.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\BirdmanTheGame.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GameFont.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GameObject.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GameStates.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Input.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Item.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Levels.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\main.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\NPC.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Player.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SceneChanger.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\SmlStreet.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\stdafx.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Theatre.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Timer.cpp">
+      <Filter>Bodies</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\Alleyway.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Alleyway2.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\AnimSprite.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\BirdmanTheGame.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GameFont.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GameObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GameStates.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Input.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Item.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Levels.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\NPC.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Player.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SceneChanger.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\SmlStreet.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\stdafx.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\targetver.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Theatre.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Timer.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{dca088c7-236c-40b3-908d-61ab184d0e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bodies">
+      <UniqueIdentifier>{44bf3b20-fb86-4625-9eee-4e13b89634e5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
